@@ -1,2 +1,1 @@
-# EstructuraDeDatos-IIICuatri
-Repositorio para proyecto de Estructura de Datos
+# 2023_3C_SC-304_HE_DIA_GRUPO
